@@ -8,9 +8,9 @@
 
 В результате тестирования выявлены следующие дефекты:
 
- * [Некорректный вывод валидных ключей в приложении KeyValidator # 1](https://github.com/Aleksey-Bur/DZ1.1JAVA/issues/4)
+ * [Некорректный вывод валидных ключей в приложении KeyValidator # 1](https://github.com/Aleksey-Bur/DZJAVA1.1/issues/1)
 
- * [Некорректный вывод невалидных ключей в приложении KeyValidator # 2](https://github.com/Aleksey-Bur/DZ1.1JAVA/issues/5)
+ * [В KeyValidator среди невалидных ключей есть валидные # 2](https://github.com/Aleksey-Bur/DZJAVA1.1/issues/2)
 
 ## Описание процесса тестирования
 
